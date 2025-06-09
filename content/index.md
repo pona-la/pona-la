@@ -14,7 +14,7 @@ Here are some of the projects hosted on pona.la. You can have your own project b
 * [ma pona](https://ma.pona.la) - world map of where Toki Pona speakers live
 * [lipu sona pona](https://lipu-sona.pona.la) - Toki Pona course by jan Lentan and others
 * [ma Seka](https://seka.pona.la) - a video sharing site for Toki Pona
-* [nimi pona](https://nimi.pona.la) - a dictionary tool by ilo Sasi, using all the free parts from jan Sonja's [lipu ku](https://tokipona.org/)
+* [nimi pona](https://nimi.pona.la) - a dictionary tool by ilo Sasi, using all the free parts from [lipu ku](https://tokipona.org/) compiled by jan Sonja
 * [lipu pona](https://lipu.pona.la) - library of 1300+ articles, song lyrics, poems, and original texts in Toki Pona
 * [sin kulupu](https://sin-kulupu.pona.la) - summary of major developments in Toki Pona culture, every two weeks
 
