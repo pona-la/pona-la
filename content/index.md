@@ -1,6 +1,6 @@
 ---
 slug: '/'
-title: 'pona.la, a domain for Toki Pona'
+title: 'pona.la: a domain for Toki Pona'
 description: 'A domain for Toki Pona projects.'
 ---
 
