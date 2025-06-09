@@ -13,7 +13,7 @@ Here are some of the projects hosted on pona.la. You can have your own project b
 * [lipu pona](https://lipu.pona.la) - Toki Pona library
 * [ma pona](https://ma.pona.la) - map of where Toki Pona speakers reside
 * [lipu Nasi](https://nasi.pona.la) - ARG for sptp2023 by jan Kepe
-* [nimi pona](https://nimi.pona.la) - a dictionary tool by ilo Sasi
+* [nimi pona](https://nimi.pona.la) - a dictionary tool by ilo Sasi, using all the free parts from jan Sonja's [lipu ku](https://tokipona.org/)
 * [ma Seka](https://seka.pona.la) - PeerTube instance by jan Kita
 * [sin kulupu](https://sin-kulupu.pona.la) - Toki Pona newsletter, every two weeks
 * [mu tenpo](https://mutenpo.pona.la) - silly clock by suno Ala
