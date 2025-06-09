@@ -1,0 +1,78 @@
+:root {
+    --bg: #fff;
+    --txt: #111;
+    --grey: #666;
+    --accent: #9141ac;
+    --accent-1: #4d2a68;
+}
+.dark {
+    --bg: #111;
+    --txt: #dbdbdb;
+    --grey: #999;
+    --accent: #dc8add;
+    --accent-1: #f1b3f2;
+}
+
+body {
+    background-color: var(--bg);
+    margin: 1rem;
+    font-family: "Nunito", Arial, Helvetica, sans-serif;
+    color: var(--txt);
+    line-height: 1.7;
+    font-size: 18px;
+}
+
+* {
+    transition:
+        color 0.2s,
+        background-color 0.2s,
+        border 0.2s,
+        fill 0.2s;
+    box-shadow: 0.2s;
+}
+
+img {
+    max-width: 100%;
+    max-height: 400px;
+    margin: auto;
+    display: block;
+}
+
+main {
+    max-width: 850px;
+    margin: auto;
+    margin-bottom: 35px;
+    text-align: justify;
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+a {
+    color: var(--accent);
+    text-decoration: underline dotted;
+    text-underline-position: under;
+    font-weight: bold;
+}
+
+a:visited {
+    color: var(--accent);
+}
+
+a:active,
+a:hover {
+    color: var(--accent-1) !important;
+}
+
+h1 {
+    text-align: center;
+    margin: 0.75em 0;
+    font-size: 1.75em;
+}
+
+hr {
+    color: var(--accent);
+}
