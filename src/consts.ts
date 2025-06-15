@@ -3,5 +3,5 @@
 
 export const SITE_URL = "pona.la";
 export const SITE_TITLE = "pona.la: a domain for Toki Pona";
-export const SITE_DESCRIPTION =
-  "A domain for Toki Pona projects.";
+export const SITE_DESCRIPTION = "A domain for Toki Pona projects.";
+export const GOATCOUNTER_URL = "pona-la.goatcounter.com";
