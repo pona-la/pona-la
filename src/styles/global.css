@@ -1,5 +1,7 @@
 :root {
     --bg: #fff;
+    --bg-1: #f3f3f3;
+    --bg-2: #ddd;
     --txt: #111;
     --grey: #666;
     --accent: #9141ac;
@@ -7,6 +9,8 @@
 }
 .dark {
     --bg: #111;
+    --bg-1: #1b1b1b;
+    --bg-2: #333;
     --txt: #dbdbdb;
     --grey: #999;
     --accent: #dc8add;

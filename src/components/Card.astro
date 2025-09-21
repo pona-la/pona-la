@@ -1,0 +1,47 @@
+---
+interface Props {
+  img: string;
+  title: string;
+  desc: string;
+  url: string;
+}
+const { img, title, desc, url } = Astro.props;
+---
+
+<style>
+  .card {
+    padding: 5px 15px;
+    display: grid;
+    grid-template-columns: 60px 1fr;
+    grid-gap: 15px;
+    align-items: center;
+  }
+  .card:nth-child(odd) {
+    background-color: var(--bg-1);
+  }
+  .card:hover {
+    background-color: var(--bg-2);
+  }
+  .title {
+    font-weight: bold;
+  }
+  img {
+    width: 100%;
+  }
+  a {
+    font-weight: inherit;
+    text-decoration: inherit;
+    color: inherit;
+  }
+</style>
+
+<a class="card" href={url}>
+  <div class="sp">
+    {img && <img src={img} />}
+  </div>
+  <div>
+    <span class="title" set:html={title} />
+    <br />
+    <span set:html={desc} />
+  </div>
+</a>
