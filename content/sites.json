@@ -44,6 +44,21 @@
     "title": "Semantic spaces dictionary by lipamanka",
     "desc": "an in-depth explanation of what each word means"
   },
+  "https://www.youtube.com/watch?v=5phj5Ae80h8": {
+    "img": "https://yt3.googleusercontent.com/J-UFY0sIn569djOPd-TANBLPXjdGihHd6Z0G8CxCJ5kHjOHJ2Tf1BBQv_ooH8hC8nO0oBkP3-w=s160-c-k-c0x00ffffff-no-rj",
+    "title": "Toki Pona in 18 Minutes",
+    "desc": "Fast-paced introductory video by ilo Tani"
+  },
+  "https://nasin.nimi.li": {
+    "img": "https://yt3.googleusercontent.com/J-UFY0sIn569djOPd-TANBLPXjdGihHd6Z0G8CxCJ5kHjOHJ2Tf1BBQv_ooH8hC8nO0oBkP3-w=s160-c-k-c0x00ffffff-no-rj",
+    "title": "nasin.nimi.li",
+    "desc": "A sentence parser for Toki Pona. Verify your understanding of syntax"
+  },
+  "https://github.com/kilipan/nasin-toki": {
+    "img": "https://avatars.githubusercontent.com/u/93031558?v=4",
+    "title": "nasin toki pona",
+    "desc": "Toki Pona grammar, explained in detail by kili pan Juli"
+  },
   "https://sona.pona.la/wiki/Cheat_sheets": {
     "img": "",
     "title": "Cheat sheets",
@@ -52,7 +67,7 @@
   "https://sona.pona.la/wiki/Recommended_learning_resources": {
     "img": "",
     "title": "Even more learning resources",
-    "desc": "Flashcards, grammar explanations, private teachers"
+    "desc": "Flashcards, private teachers"
   },
   "learn": {
     "img": "",
