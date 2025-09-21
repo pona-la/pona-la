@@ -39,6 +39,31 @@
     "title": "linku.la",
     "desc": "Dictionary. Use 'core'+'common' settings"
   },
+  "https://linku.la/fonts": {
+    "img": "https://linku.la/favicon.png",
+    "title": "linku.la : fonts",
+    "desc": "Font repository. 100+ fonts"
+  },
+  "https://linku.la/tools": {
+    "img": "https://linku.la/favicon.png",
+    "title": "linku.la : tools",
+    "desc": "A Latin to sitelen pona web converter"
+  },
+  "https://sona.pona.la/wiki/Wakalito": {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Wakalito_logo.svg",
+    "title": "Wakalito",
+    "desc": "Desktop and iOS sitelen pona input method, stroke-based"
+  },
+  "https://sona.pona.la/wiki/Ajemi": {
+    "img": "",
+    "title": "Ajemi",
+    "desc": "Windows sitelen pona input method, pronunciation-based"
+  },
+  "https://sona.pona.la/wiki/SP_Font_Maker": {
+    "img": "",
+    "title": "SP Font Maker",
+    "desc": "Fontmaking system for sitelen pona, used in the majority of SP fonts"
+  },
   "https://lipamanka.gay/essays/dictionary": {
     "img": "https://yt3.googleusercontent.com/EAB3Iv5FanSPSZqnX69v18TUTEQCph_QKrZcTV8D1_xsVnxZOd87wHEdGBZMhMiLX9znS-HplQ=s160-c-k-c0x00ffffff-no-rj",
     "title": "Semantic spaces dictionary by lipamanka",
@@ -118,6 +143,21 @@
     "img": "",
     "title": "All pona.la subdomains",
     "desc": "Anything from community projects to personal pages. You can request your own!"
+  },
+  "sp": {
+    "img": "",
+    "title": "All about sitelen pona",
+    "desc": "Fonts, IMEs, standardisation"
+  },
+  "https://antetokipona.infinityfreeapp.com/font": {
+    "img": "",
+    "title": "jan Ke Tami's font page",
+    "desc": "Compare glyph shapes in every font"
+  },
+  "https://sitelenpona.org": {
+    "img": "https://sitelenpona.org/apple-touch-icon.png",
+    "title": "Sitelen Pona Publishers and Typographers Association",
+    "desc": "Working group to facilitate font interoperability and work towards Unicode admission"
   },
   "https://liputenpo.org": {
     "img": "https://liputenpo.org/apple-touch-icon.png",
