@@ -33,6 +33,7 @@ const { img, title, desc } = Object.keys(sites).includes(url)
   }
   img {
     width: 100%;
+    border-radius: 15px;
   }
   a {
     font-weight: inherit;
@@ -41,7 +42,7 @@ const { img, title, desc } = Object.keys(sites).includes(url)
   }
 </style>
 
-<a class="card" href={`https://${url}`}>
+<a class="card" href={`${url}`}>
   <div class="sp">
     {img && <img src={img} />}
   </div>
