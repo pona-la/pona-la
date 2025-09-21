@@ -1,0 +1,77 @@
+{
+  "tokipona.org": {
+    "img": "https://tokipona.org/apple-touch-icon.png",
+    "title": "tokipona.org",
+    "desc": "jan Sonja's site"
+  },
+  "sona.pona.la": {
+    "img": "https://static.wikitide.net/sonaponawiki/e/ec/sona_pona_%28provisional%29.png",
+    "title": "sona.pona.la",
+    "desc": "a wiki of comprehensive knowledge about Toki Pona"
+  },
+  "suno.pona.la": {
+    "img": "https://suno.pona.la/suno.ico",
+    "title": "suno pi toki pona",
+    "desc": "24-hour festival of Toki Pona culture, livestreamed in August every year"
+  },
+  "utala.pona.la": {
+    "img": "",
+    "title": "utala musi pi toki pona",
+    "desc": "original literature and art contests"
+  },
+  "ma.pona.la": {
+    "img": "https://media.discordapp.net/attachments/1190488533522206801/1373378520130261172/sona-ma-pin-blue.png?ex=68d04eeb&is=68cefd6b&hm=f97b6ace207e0aa807ee880522204aa487f552b6900d7feefe6d965ecdd83fa7&=&format=webp&quality=lossless&width=946&height=946",
+    "title": "ma.pona.la",
+    "desc": "world map of where Toki Pona speakers live"
+  },
+  "lipu-sona.pona.la": {
+    "img": "https://lipu-sona.pona.la/favicon.png",
+    "title": "lipu-sona.pona.la",
+    "desc": "Toki Pona course by jan Lentan and others"
+  },
+  "seka.pona.la": {
+    "img": "https://seka.pona.la/client/assets/images/logo.svg?d6918b7b93db6bafbe7be24cae482d982ab3ed1b",
+    "title": "ma Seka",
+    "desc": "a video sharing site for Toki Pona"
+  },
+  "nimi.pona.la": {
+    "img": "https://nimi.pona.la/assets/sitelen/nimi.png",
+    "title": "nimi.pona.la",
+    "desc": "a dictionary by ilo Sasi with the free parts from lipu ku compiled by jan Sonja"
+  },
+  "lipu.pona.la": {
+    "img": "https://lipu.pona.la/favicon.png",
+    "title": "lipu.pona.la",
+    "desc": "library of 1300+ articles, song lyrics, poems, and original texts in Toki Pona"
+  },
+  "sin-kulupu.pona.la": {
+    "img": "https://sin-kulupu.pona.la/favicon.svg",
+    "title": "sin kulupu",
+    "desc": "summary of major developments in Toki Pona culture, every two weeks"
+  },
+  "sitelen.pona.la": {
+    "img": "https://sitelen.pona.la/favicon.png",
+    "title": "tomo sitelen",
+    "desc": "a collection of sitelen pona fonts"
+  },
+  "nasi.pona.la": {
+    "img": "",
+    "title": "lipu Nasi",
+    "desc": "ARG for sptp2023 by jan Kepe"
+  },
+  "mutenpo.pona.la": {
+    "img": "https://mutenpo.pona.la/favicon.svg",
+    "title": "mu tenpo",
+    "desc": "silly clock by suno Ala"
+  },
+  "sike.pona.la": {
+    "img": "",
+    "title": "sike pona pi toki pona",
+    "desc": "webring"
+  },
+  "sona-suli.pona.la": {
+    "img": "",
+    "title": "lipu sona suli",
+    "desc": "a wiki by jan Tepo, currently empty"
+  }
+}
