@@ -3,6 +3,8 @@ title: 'addition requests'
 description: 'Request a new pona.la subdomain'
 ---
 
+{/* TODO: tok, update template instructions */}
+
 ## addition requests
 
 If you understand what dns is, you can request dns entries at [lawa@pona.la](mailto:lawa@pona.la) right away. Otherwise, let me explain how you can have your own site here. I will explain how to get things done with <a href="https://github.com">github</a>, so you will have to create an accout there.

@@ -3,6 +3,8 @@ title: 'Defunct subdomains'
 description: 'pona.la subdomains that are no longer active.'
 ---
 
+{/* TODO: tok */}
+
 The following domains were previously allocated, but are now defunct:
 
 * kulupu.pona.la - forum by soweli Masi. Closed [due to moderation concerns](https://web.archive.org/web/20231114030939/https://kulupu.pona.la/d/155-notice-of-the-shutdown-of-kulupu-lipu-pona-until-further-notice), but [is available as an archive](https://archive.org/details/kulupu.pona.la).

@@ -1,242 +1,338 @@
 {
   "https://wasona.com": {
     "img": "https://wasona.com/favicon.svg",
-    "title": "wasona.com",
-    "desc": "Online course with interactive exercises"
+    "title_eng": "wasona.com",
+    "title_tok": "lipu Wasona",
+    "desc_eng": "Online course with interactive exercises",
+    "desc_tok": "lipu la o kama sona kepeken musi!"
   },
   "https://www.youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT": {
     "img": "https://yt3.googleusercontent.com/g2-rnfR4c5QwfL75Qww_5s86N4tBRpil9iJYdwUwOF5UoICR76DBh9feX1Bkzc8iwzvDTlJ1Kw=s160-c-k-c0x00ffffff-no-rj",
-    "title": "Learn Toki Pona!",
-    "desc": "Video course by mun Kekan San"
+    "title_eng": "Learn Toki Pona!",
+    "title_tok": "Learn Toki Pona!",
+    "desc_eng": "Video course by mun Kekan San",
+    "desc_tok": "Video course by mun Kekan San"
   },
   "https://mun.la/sona": {
     "img": "https://yt3.googleusercontent.com/g2-rnfR4c5QwfL75Qww_5s86N4tBRpil9iJYdwUwOF5UoICR76DBh9feX1Bkzc8iwzvDTlJ1Kw=s160-c-k-c0x00ffffff-no-rj",
-    "title": "Learn Toki Pona!",
-    "desc": "Written version of the course by mun Kekan San"
+    "title_eng": "Learn Toki Pona!",
+    "title_tok": "Learn Toki Pona!",
+    "desc_eng": "Written version of the course by mun Kekan San",
+    "desc_tok": "Written version of the course by mun Kekan San"
   },
   "https://lipu-sona.comforttiger.space": {
     "img": "https://lipu-sona.comforttiger.space/favicon.webp",
-    "title": "lipu sona",
-    "desc": "2022 course by soweli Lote"
+    "title_eng": "lipu sona",
+    "title_tok": "lipu sona",
+    "desc_eng": "2022 course by soweli Lote",
+    "desc_tok": "2022 course by soweli Lote"
   },
   "https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm": {
     "img": "https://yt3.googleusercontent.com/4zhiGDSlrwBJPn4khU6hNDrhiJ4xL-ItHWf9IEa0aorLSFq6ZbeY1bfus7kELjnrJtEe7ByXDQ=s160-c-k-c0x00ffffff-no-rj",
-    "title": "o pilin e toki pona",
-    "desc": "Learn through comprehensible input, by jan Telakoman"
+    "title_eng": "o pilin e toki pona",
+    "title_tok": "o pilin e toki pona",
+    "desc_eng": "Learn through comprehensible input, by jan Telakoman",
+    "desc_tok": "Learn through comprehensible input, by jan Telakoman"
   },
   "https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX": {
     "img": "https://yt3.googleusercontent.com/ytc/AIdro_la326QKs8x9sDU1AOxNNCzFdMC1H1HXNXFvpEjW9RxlYg=s160-c-k-c0x00ffffff-no-rj",
-    "title": "toki pona lessons",
-    "desc": "Video course by jan Misali and jan Kesi"
+    "title_eng": "toki pona lessons",
+    "title_tok": "toki pona lessons",
+    "desc_eng": "Video course by jan Misali and jan Kesi",
+    "desc_tok": "Video course by jan Misali and jan Kesi"
   },
   "https://nimi.li": {
     "img": "https://nimi.li/favicon.png",
-    "title": "nimi.li",
-    "desc": "Dictionary. Use 'core'+'common' settings"
+    "title_eng": "nimi.li",
+    "title_tok": "nimi.li",
+    "desc_eng": "Dictionary. Use 'core'+'common' settings",
+    "desc_tok": "Dictionary. Use 'core'+'common' settings"
   },
   "https://linku.la": {
     "img": "https://linku.la/favicon.png",
-    "title": "linku.la",
-    "desc": "Dictionary. Use 'core'+'common' settings"
+    "title_eng": "linku.la",
+    "title_tok": "linku.la",
+    "desc_eng": "Dictionary. Use 'core'+'common' settings",
+    "desc_tok": "Dictionary. Use 'core'+'common' settings"
   },
   "https://linku.la/fonts": {
     "img": "https://linku.la/favicon.png",
-    "title": "linku.la : fonts",
-    "desc": "Font repository. 100+ fonts"
+    "title_eng": "linku.la : fonts",
+    "title_tok": "linku.la : fonts",
+    "desc_eng": "Font repository. 100+ fonts",
+    "desc_tok": "Font repository. 100+ fonts"
   },
   "https://linku.la/tools": {
     "img": "https://linku.la/favicon.png",
-    "title": "linku.la : tools",
-    "desc": "A Latin to sitelen pona web converter"
+    "title_eng": "linku.la : tools",
+    "title_tok": "linku.la : tools",
+    "desc_eng": "A Latin to sitelen pona web converter",
+    "desc_tok": "A Latin to sitelen pona web converter"
   },
   "https://sona.pona.la/wiki/Wakalito": {
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Wakalito_logo.svg",
-    "title": "Wakalito",
-    "desc": "Desktop and iOS sitelen pona input method, stroke-based"
+    "title_eng": "Wakalito",
+    "title_tok": "Wakalito",
+    "desc_eng": "Desktop and iOS sitelen pona input method, stroke-based",
+    "desc_tok": "Desktop and iOS sitelen pona input method, stroke-based"
   },
   "https://sona.pona.la/wiki/Ajemi": {
     "img": "",
-    "title": "Ajemi",
-    "desc": "Windows sitelen pona input method, pronunciation-based"
+    "title_eng": "Ajemi",
+    "title_tok": "Ajemi",
+    "desc_eng": "Windows sitelen pona input method, pronunciation-based",
+    "desc_tok": "Windows sitelen pona input method, pronunciation-based"
   },
   "https://sona.pona.la/wiki/SP_Font_Maker": {
     "img": "",
-    "title": "SP Font Maker",
-    "desc": "Fontmaking system for sitelen pona, used in the majority of SP fonts"
+    "title_eng": "SP Font Maker",
+    "title_tok": "SP Font Maker",
+    "desc_eng": "Fontmaking system for sitelen pona, used in the majority of SP fonts",
+    "desc_tok": "Fontmaking system for sitelen pona, used in the majority of SP fonts"
   },
   "https://lipamanka.gay/essays/dictionary": {
     "img": "https://yt3.googleusercontent.com/EAB3Iv5FanSPSZqnX69v18TUTEQCph_QKrZcTV8D1_xsVnxZOd87wHEdGBZMhMiLX9znS-HplQ=s160-c-k-c0x00ffffff-no-rj",
-    "title": "Semantic spaces dictionary by lipamanka",
-    "desc": "an in-depth explanation of what each word means"
+    "title_eng": "Semantic spaces dictionary by lipamanka",
+    "title_tok": "Semantic spaces dictionary by lipamanka",
+    "desc_eng": "an in-depth explanation of what each word means",
+    "desc_tok": "an in-depth explanation of what each word means"
   },
   "https://www.youtube.com/watch?v=5phj5Ae80h8": {
     "img": "https://yt3.googleusercontent.com/J-UFY0sIn569djOPd-TANBLPXjdGihHd6Z0G8CxCJ5kHjOHJ2Tf1BBQv_ooH8hC8nO0oBkP3-w=s160-c-k-c0x00ffffff-no-rj",
-    "title": "Toki Pona in 18 Minutes",
-    "desc": "Fast-paced introductory video by ilo Tani"
+    "title_eng": "Toki Pona in 18 Minutes",
+    "title_tok": "Toki Pona in 18 Minutes",
+    "desc_eng": "Fast-paced introductory video by ilo Tani",
+    "desc_tok": "Fast-paced introductory video by ilo Tani"
   },
   "https://nasin.nimi.li": {
     "img": "https://yt3.googleusercontent.com/J-UFY0sIn569djOPd-TANBLPXjdGihHd6Z0G8CxCJ5kHjOHJ2Tf1BBQv_ooH8hC8nO0oBkP3-w=s160-c-k-c0x00ffffff-no-rj",
-    "title": "nasin.nimi.li",
-    "desc": "A sentence parser for Toki Pona. Verify your understanding of syntax"
+    "title_eng": "nasin.nimi.li",
+    "title_tok": "nasin.nimi.li",
+    "desc_eng": "A sentence parser for Toki Pona. Verify your understanding of syntax",
+    "desc_tok": "A sentence parser for Toki Pona. Verify your understanding of syntax"
   },
   "https://github.com/kilipan/nasin-toki": {
     "img": "https://avatars.githubusercontent.com/u/93031558?v=4",
-    "title": "nasin toki pona",
-    "desc": "Toki Pona grammar, explained in detail by kili pan Juli"
+    "title_eng": "nasin toki pona",
+    "title_tok": "nasin toki pona",
+    "desc_eng": "Toki Pona grammar, explained in detail by kili pan Juli",
+    "desc_tok": "Toki Pona grammar, explained in detail by kili pan Juli"
   },
   "https://sona.pona.la/wiki/Cheat_sheets": {
     "img": "",
-    "title": "Cheat sheets",
-    "desc": "Fitting the grammar and vocabulary of Toki Pona on just 1-2 pages"
+    "title_eng": "Cheat sheets",
+    "title_tok": "Cheat sheets",
+    "desc_eng": "Fitting the grammar and vocabulary of Toki Pona on just 1-2 pages",
+    "desc_tok": "Fitting the grammar and vocabulary of Toki Pona on just 1-2 pages"
   },
   "https://sona.pona.la/wiki/Recommended_learning_resources": {
     "img": "",
-    "title": "Even more learning resources",
-    "desc": "Flashcards, private teachers"
+    "title_eng": "Even more learning resources",
+    "title_tok": "Even more learning resources",
+    "desc_eng": "Flashcards, private teachers",
+    "desc_tok": "Flashcards, private teachers"
   },
   "learn": {
     "img": "",
-    "title": "More learning resources",
-    "desc": "Written lessons, video lessons, dictionaries, cheat sheets"
+    "title_eng": "More learning resources",
+    "title_tok": "More learning resources",
+    "desc_eng": "Written lessons, video lessons, dictionaries, cheat sheets",
+    "desc_tok": "Written lessons, video lessons, dictionaries, cheat sheets"
   },
   "https://tenpo.pona.la": {
     "img": "",
-    "title": "tenpo.pona.la",
-    "desc": "Get notified about Toki Pona community events"
+    "title_eng": "tenpo.pona.la",
+    "title_tok": "tenpo.pona.la",
+    "desc_eng": "Get notified about Toki Pona community events",
+    "desc_tok": "Get notified about Toki Pona community events"
   },
   "https://discord.gg/mapona": {
     "img": "https://cdn.discordapp.com/icons/301377942062366741/a_ce9bd821bec0e0df58807e702f073f61.png",
-    "title": "ma pona pi toki pona",
-    "desc": "Largest Toki Pona community"
+    "title_eng": "ma pona pi toki pona",
+    "title_tok": "ma pona pi toki pona",
+    "desc_eng": "Largest Toki Pona community",
+    "desc_tok": "Largest Toki Pona community"
   },
   "https://discord.gg/kBdKdT4Zuq": {
     "img": "https://cdn.discordapp.com/icons/1208593165213245510/c45b75b6041ae077b1a68fb6b467ca42.png",
-    "title": "ma mun",
-    "desc": "A community for speaking only Toki Pona"
+    "title_eng": "ma mun",
+    "title_tok": "ma mun",
+    "desc_eng": "A community for speaking only Toki Pona",
+    "desc_tok": "A community for speaking only Toki Pona"
   },
   "https://discord.gg/ChC6qtVsSE": {
     "img": "https://cdn.discordapp.com/icons/969386329513295872/ddf6dc645bd8916fb8f23cef7af12dc2.png",
-    "title": "kama sona",
-    "desc": "A beginner-oriented community"
+    "title_eng": "kama sona",
+    "title_tok": "kama sona",
+    "desc_eng": "A beginner-oriented community",
+    "desc_tok": "A beginner-oriented community"
   },
   "https://bsky.app/profile/tokiponavr.bsky.social": {
     "img": "https://cdn.bsky.app/img/avatar/plain/did:plc:sa7ikktii2hppwxkvlzhwoss/bafkreifcrpusbnqnbsqx5xpjvnl4b6hthcifyihcxhqtnd3hic363nsfim@jpeg",
-    "title": "Toki Pona VR",
-    "desc": "VRChat community, with regular meetups"
+    "title_eng": "Toki Pona VR",
+    "title_tok": "Toki Pona VR",
+    "desc_eng": "VRChat community, with regular meetups",
+    "desc_tok": "VRChat community, with regular meetups"
   },
   "https://sona.pona.la/wiki/Communities": {
     "img": "",
-    "title": "More communities",
-    "desc": "Reddit, Telegram, IRL meetups"
+    "title_eng": "More communities",
+    "title_tok": "More communities",
+    "desc_eng": "Reddit, Telegram, IRL meetups",
+    "desc_tok": "Reddit, Telegram, IRL meetups"
   },
   "https://www.youtube.com/playlist?list=PLjOmpMyMxd8Qs2mAXcLk817tQy_AQj09u": {
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Kalama_sin_logo.jpg",
-    "title": "kalama sin",
-    "desc": "A podcast in Toki Pona. Listen to proficient speakers"
+    "title_eng": "kalama sin",
+    "title_tok": "kalama sin",
+    "desc_eng": "A podcast in Toki Pona. Listen to proficient speakers",
+    "desc_tok": "A podcast in Toki Pona. Listen to proficient speakers"
   },
   "https://www.youtube.com/watch?v=ho0RS-aFUqI": {
     "img": "",
-    "title": "kute.pona.la",
-    "desc": "An internet radio, with hundreds of Toki Pona songs"
+    "title_eng": "kute.pona.la",
+    "title_tok": "kute.pona.la",
+    "desc_eng": "An internet radio, with hundreds of Toki Pona songs",
+    "desc_tok": "An internet radio, with hundreds of Toki Pona songs"
   },
   "subdomains": {
     "img": "",
-    "title": "All pona.la subdomains",
-    "desc": "Anything from community projects to personal pages. You can request your own!"
+    "title_eng": "All pona.la subdomains",
+    "title_tok": "All pona.la subdomains",
+    "desc_eng": "Anything from community projects to personal pages. You can request your own!",
+    "desc_tok": "Anything from community projects to personal pages. You can request your own!"
   },
   "sp": {
     "img": "",
-    "title": "All about sitelen pona",
-    "desc": "Fonts, IMEs, standardisation"
+    "title_eng": "All about sitelen pona",
+    "title_tok": "All about sitelen pona",
+    "desc_eng": "Fonts, IMEs, standardisation",
+    "desc_tok": "Fonts, IMEs, standardisation"
   },
   "https://antetokipona.infinityfreeapp.com/font": {
     "img": "",
-    "title": "jan Ke Tami's font page",
-    "desc": "Compare glyph shapes in every font"
+    "title_eng": "jan Ke Tami's font page",
+    "title_tok": "jan Ke Tami's font page",
+    "desc_eng": "Compare glyph shapes in every font",
+    "desc_tok": "Compare glyph shapes in every font"
   },
   "https://sitelenpona.org": {
     "img": "https://sitelenpona.org/apple-touch-icon.png",
-    "title": "Sitelen Pona Publishers and Typographers Association",
-    "desc": "Working group to facilitate font interoperability and work towards Unicode admission"
+    "title_eng": "Sitelen Pona Publishers and Typographers Association",
+    "title_tok": "Sitelen Pona Publishers and Typographers Association",
+    "desc_eng": "Working group to facilitate font interoperability and work towards Unicode admission",
+    "desc_tok": "Working group to facilitate font interoperability and work towards Unicode admission"
   },
   "https://liputenpo.org": {
     "img": "https://liputenpo.org/apple-touch-icon.png",
-    "title": "lipu tenpo",
-    "desc": "A magazine written in Toki Pona, hundreds of high-quality articles"
+    "title_eng": "lipu tenpo",
+    "title_tok": "lipu tenpo",
+    "desc_eng": "A magazine written in Toki Pona, hundreds of high-quality articles",
+    "desc_tok": "A magazine written in Toki Pona, hundreds of high-quality articles"
   },
   "https://tokipona.org": {
     "img": "https://tokipona.org/apple-touch-icon.png",
-    "title": "tokipona.org",
-    "desc": "Printed books by jan Sonja, inter-conlang collaboration, FAQ"
+    "title_eng": "tokipona.org",
+    "title_tok": "tokipona.org",
+    "desc_eng": "Printed books by jan Sonja, inter-conlang collaboration, FAQ",
+    "desc_tok": "Printed books by jan Sonja, inter-conlang collaboration, FAQ"
   },
   "https://sona.pona.la": {
     "img": "https://static.wikitide.net/sonaponawiki/e/ec/sona_pona_%28provisional%29.png",
-    "title": "sona.pona.la",
-    "desc": "a wiki of comprehensive knowledge about Toki Pona"
+    "title_eng": "sona.pona.la",
+    "title_tok": "sona.pona.la",
+    "desc_eng": "a wiki of comprehensive knowledge about Toki Pona",
+    "desc_tok": "a wiki of comprehensive knowledge about Toki Pona"
   },
   "https://suno.pona.la": {
     "img": "https://suno.pona.la/suno.ico",
-    "title": "suno pi toki pona",
-    "desc": "24-hour festival of Toki Pona culture, livestreamed in August every year"
+    "title_eng": "suno pi toki pona",
+    "title_tok": "suno pi toki pona",
+    "desc_eng": "24-hour festival of Toki Pona culture, livestreamed in August every year",
+    "desc_tok": "24-hour festival of Toki Pona culture, livestreamed in August every year"
   },
   "https://utala.pona.la": {
     "img": "",
-    "title": "utala musi pi toki pona",
-    "desc": "Original literature and art contests"
+    "title_eng": "utala musi pi toki pona",
+    "title_tok": "utala musi pi toki pona",
+    "desc_eng": "Original literature and art contests",
+    "desc_tok": "Original literature and art contests"
   },
   "https://ma.pona.la": {
     "img": "https://media.discordapp.net/attachments/1190488533522206801/1373378520130261172/sona-ma-pin-blue.png?ex=68d04eeb&is=68cefd6b&hm=f97b6ace207e0aa807ee880522204aa487f552b6900d7feefe6d965ecdd83fa7&=&format=webp&quality=lossless&width=946&height=946",
-    "title": "ma.pona.la",
-    "desc": "world map of where Toki Pona speakers live"
+    "title_eng": "ma.pona.la",
+    "title_tok": "ma.pona.la",
+    "desc_eng": "world map of where Toki Pona speakers live",
+    "desc_tok": "world map of where Toki Pona speakers live"
   },
   "https://lipu-sona.pona.la": {
     "img": "https://lipu-sona.pona.la/favicon.png",
-    "title": "lipu-sona.pona.la",
-    "desc": "2020 Toki Pona course by jan Lentan and others"
+    "title_eng": "lipu-sona.pona.la",
+    "title_tok": "lipu-sona.pona.la",
+    "desc_eng": "2020 Toki Pona course by jan Lentan and others",
+    "desc_tok": "2020 Toki Pona course by jan Lentan and others"
   },
   "https://seka.pona.la": {
     "img": "https://seka.pona.la/client/assets/images/logo.svg?d6918b7b93db6bafbe7be24cae482d982ab3ed1b",
-    "title": "ma Seka",
-    "desc": "a video sharing site for Toki Pona"
+    "title_eng": "ma Seka",
+    "title_tok": "ma Seka",
+    "desc_eng": "a video sharing site for Toki Pona",
+    "desc_tok": "a video sharing site for Toki Pona"
   },
   "https://nimi.pona.la": {
     "img": "https://nimi.pona.la/assets/sitelen/nimi.png",
-    "title": "nimi.pona.la",
-    "desc": "a dictionary by ilo Sasi with the free parts from lipu ku compiled by jan Sonja"
+    "title_eng": "nimi.pona.la",
+    "title_tok": "nimi.pona.la",
+    "desc_eng": "a dictionary by ilo Sasi with the free parts from lipu ku compiled by jan Sonja",
+    "desc_tok": "a dictionary by ilo Sasi with the free parts from lipu ku compiled by jan Sonja"
   },
   "https://lipu.pona.la": {
     "img": "https://lipu.pona.la/favicon.png",
-    "title": "lipu.pona.la",
-    "desc": "1500+ articles, song lyrics, poems, and original texts in Toki Pona"
+    "title_eng": "lipu.pona.la",
+    "title_tok": "lipu.pona.la",
+    "desc_eng": "1500+ articles, song lyrics, poems, and original texts in Toki Pona",
+    "desc_tok": "1500+ articles, song lyrics, poems, and original texts in Toki Pona"
   },
   "https://sin-kulupu.pona.la": {
     "img": "https://sin-kulupu.pona.la/favicon.svg",
-    "title": "sin kulupu",
-    "desc": "a Toki Pona newsletter, every two weeks"
+    "title_eng": "sin kulupu",
+    "title_tok": "sin kulupu",
+    "desc_eng": "a Toki Pona newsletter, every two weeks",
+    "desc_tok": "a Toki Pona newsletter, every two weeks"
   },
   "https://sitelen.pona.la": {
     "img": "https://sitelen.pona.la/favicon.png",
-    "title": "tomo sitelen",
-    "desc": "a collection of sitelen pona fonts"
+    "title_eng": "tomo sitelen",
+    "title_tok": "tomo sitelen",
+    "desc_eng": "a collection of sitelen pona fonts",
+    "desc_tok": "a collection of sitelen pona fonts"
   },
   "https://nasi.pona.la": {
     "img": "",
-    "title": "lipu Nasi",
-    "desc": "ARG for sptp2023 by jan Kepe"
+    "title_eng": "lipu Nasi",
+    "title_tok": "lipu Nasi",
+    "desc_eng": "ARG for sptp2023 by jan Kepe",
+    "desc_tok": "ARG for sptp2023 by jan Kepe"
   },
   "https://mutenpo.pona.la": {
     "img": "https://mutenpo.pona.la/favicon.svg",
-    "title": "mu tenpo",
-    "desc": "silly clock by suno Ala"
+    "title_eng": "mu tenpo",
+    "title_tok": "mu tenpo",
+    "desc_eng": "silly clock by suno Ala",
+    "desc_tok": "silly clock by suno Ala"
   },
   "https://sike.pona.la": {
     "img": "",
-    "title": "sike pona pi toki pona",
-    "desc": "webring"
+    "title_eng": "sike pona pi toki pona",
+    "title_tok": "sike pona pi toki pona",
+    "desc_eng": "webring",
+    "desc_tok": "webring"
   },
   "https://sona-suli.pona.la": {
     "img": "",
-    "title": "lipu sona suli",
-    "desc": "a wiki by jan Tepo, currently empty"
+    "title_eng": "lipu sona suli",
+    "title_tok": "lipu sona suli",
+    "desc_eng": "a wiki by jan Tepo, currently empty",
+    "desc_tok": "a wiki by jan Tepo, currently empty"
   }
 }
