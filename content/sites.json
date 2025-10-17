@@ -132,13 +132,6 @@
     "desc_eng": "Flashcards, private teachers",
     "desc_tok": "Flashcards, private teachers"
   },
-  "learn": {
-    "img": "",
-    "title_eng": "More learning resources",
-    "title_tok": "More learning resources",
-    "desc_eng": "Written lessons, video lessons, dictionaries, cheat sheets",
-    "desc_tok": "Written lessons, video lessons, dictionaries, cheat sheets"
-  },
   "https://tenpo.pona.la": {
     "img": "",
     "title_eng": "tenpo.pona.la",
@@ -194,20 +187,6 @@
     "title_tok": "kute.pona.la",
     "desc_eng": "An internet radio, with hundreds of Toki Pona songs",
     "desc_tok": "An internet radio, with hundreds of Toki Pona songs"
-  },
-  "subdomains": {
-    "img": "",
-    "title_eng": "All pona.la subdomains",
-    "title_tok": "All pona.la subdomains",
-    "desc_eng": "Anything from community projects to personal pages. You can request your own!",
-    "desc_tok": "Anything from community projects to personal pages. You can request your own!"
-  },
-  "sp": {
-    "img": "",
-    "title_eng": "All about sitelen pona",
-    "title_tok": "All about sitelen pona",
-    "desc_eng": "Fonts, IMEs, standardisation",
-    "desc_tok": "Fonts, IMEs, standardisation"
   },
   "https://antetokipona.infinityfreeapp.com/font": {
     "img": "",

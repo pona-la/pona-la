@@ -6,5 +6,5 @@
   "url_github": "https://github.com/pona-la/pona-la/",
 
   "use_navbar": true,
-  "use_language_toggle": true
+  "use_language_toggle": false
 }

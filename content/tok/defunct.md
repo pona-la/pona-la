@@ -1,6 +1,6 @@
 ---
-title: 'Defunct subdomains'
-description: 'pona.la subdomains that are no longer active.'
+title: 'lipu pini'
+description: 'lipu ni li pini li weka tan lipu pona.la'
 ---
 
 {/* TODO: tok */}
