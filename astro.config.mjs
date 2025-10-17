@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 import { config } from "selo-components/config";
 
 const deploy = import.meta.env.PROD
-  ? { site: `https://${config.site_url}/` }
+  ? { site: `https://${config.hostname}/` }
   : { site: "http://localhost/" };
 
 // https://astro.build/config
