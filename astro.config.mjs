@@ -2,10 +2,10 @@
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
-import { SITE_URL } from "./src/consts";
+import { config } from "selo-components/config";
 
 const deploy = import.meta.env.PROD
-  ? { site: `https://${SITE_URL}/` }
+  ? { site: `https://${config.site_url}/` }
   : { site: "http://localhost/" };
 
 // https://astro.build/config
