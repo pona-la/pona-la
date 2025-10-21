@@ -2,7 +2,7 @@
   "hostname": "pona.la",
   "title": "pona.la: a domain for Toki Pona",
   "description": "A domain for Toki Pona projects.",
-  "url_goatcounter": "https://pona-la.goatcounter.com/",
+  "url_goatcounter": "https://pona-la.goatcounter.com",
   "url_github": "https://github.com/pona-la/pona-la/",
 
   "use_navbar": true,
