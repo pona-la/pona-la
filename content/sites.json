@@ -7,14 +7,14 @@
     "desc_tok": "lipu la o kama sona kepeken musi!"
   },
   "https://www.youtube.com/playlist?list=PLoLQoll2U6WEeCO7C2oc1LTWgkoBC8rvT": {
-    "img": "https://yt3.googleusercontent.com/g2-rnfR4c5QwfL75Qww_5s86N4tBRpil9iJYdwUwOF5UoICR76DBh9feX1Bkzc8iwzvDTlJ1Kw=s160-c-k-c0x00ffffff-no-rj",
+    "img": "https://avatars.githubusercontent.com/u/28300107?v=4",
     "title_eng": "Learn Toki Pona!",
     "title_tok": "Learn Toki Pona!",
     "desc_eng": "Video course by mun Kekan San",
     "desc_tok": "Video course by mun Kekan San"
   },
   "https://mun.la/sona": {
-    "img": "https://yt3.googleusercontent.com/g2-rnfR4c5QwfL75Qww_5s86N4tBRpil9iJYdwUwOF5UoICR76DBh9feX1Bkzc8iwzvDTlJ1Kw=s160-c-k-c0x00ffffff-no-rj",
+    "img": "https://avatars.githubusercontent.com/u/28300107?v=4",
     "title_eng": "Learn Toki Pona!",
     "title_tok": "Learn Toki Pona!",
     "desc_eng": "Written version of the course by mun Kekan San",
@@ -28,14 +28,14 @@
     "desc_tok": "2022 course by soweli Lote"
   },
   "https://www.youtube.com/playlist?list=PLwYL9_SRAk8EXSZPSTm9lm2kD_Z1RzUgm": {
-    "img": "https://yt3.googleusercontent.com/4zhiGDSlrwBJPn4khU6hNDrhiJ4xL-ItHWf9IEa0aorLSFq6ZbeY1bfus7kELjnrJtEe7ByXDQ=s160-c-k-c0x00ffffff-no-rj",
+    "img": "https://joelthomastr.github.io/tokipona/jantelakoman.png",
     "title_eng": "o pilin e toki pona",
     "title_tok": "o pilin e toki pona",
     "desc_eng": "Learn through comprehensible input, by jan Telakoman",
     "desc_tok": "Learn through comprehensible input, by jan Telakoman"
   },
   "https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX": {
-    "img": "https://yt3.googleusercontent.com/ytc/AIdro_la326QKs8x9sDU1AOxNNCzFdMC1H1HXNXFvpEjW9RxlYg=s160-c-k-c0x00ffffff-no-rj",
+    "img": "https://f4.bcbits.com/img/0012016289_10.jpg",
     "title_eng": "toki pona lessons",
     "title_tok": "toki pona lessons",
     "desc_eng": "Video course by jan Misali and jan Kesi",
@@ -54,6 +54,13 @@
     "title_tok": "linku.la",
     "desc_eng": "Dictionary. Use 'core'+'common' settings",
     "desc_tok": "Dictionary. Use 'core'+'common' settings"
+  },
+  "https://kemeka.pona.la": {
+    "img": "https://kemeka.pona.la/favicon.svg",
+    "title_eng": "Kemeka",
+    "title_tok": "lipu Kemeka",
+    "desc_eng": "English–Toki Pona dictionary with examples",
+    "desc_tok": "English–Toki Pona dictionary with examples"
   },
   "https://linku.la/fonts": {
     "img": "https://linku.la/favicon.png",
@@ -91,21 +98,21 @@
     "desc_tok": "Fontmaking system for sitelen pona, used in the majority of SP fonts"
   },
   "https://lipamanka.gay/essays/dictionary": {
-    "img": "https://yt3.googleusercontent.com/EAB3Iv5FanSPSZqnX69v18TUTEQCph_QKrZcTV8D1_xsVnxZOd87wHEdGBZMhMiLX9znS-HplQ=s160-c-k-c0x00ffffff-no-rj",
+    "img": "https://avatars.githubusercontent.com/u/111026347?v=4",
     "title_eng": "Semantic spaces dictionary by lipamanka",
     "title_tok": "Semantic spaces dictionary by lipamanka",
     "desc_eng": "an in-depth explanation of what each word means",
     "desc_tok": "an in-depth explanation of what each word means"
   },
   "https://www.youtube.com/watch?v=5phj5Ae80h8": {
-    "img": "https://yt3.googleusercontent.com/J-UFY0sIn569djOPd-TANBLPXjdGihHd6Z0G8CxCJ5kHjOHJ2Tf1BBQv_ooH8hC8nO0oBkP3-w=s160-c-k-c0x00ffffff-no-rj",
+    "img": "https://avatars.githubusercontent.com/u/27079662?v=4",
     "title_eng": "Toki Pona in 18 Minutes",
     "title_tok": "Toki Pona in 18 Minutes",
     "desc_eng": "Fast-paced introductory video by ilo Tani",
     "desc_tok": "Fast-paced introductory video by ilo Tani"
   },
   "https://nasin.nimi.li": {
-    "img": "https://yt3.googleusercontent.com/J-UFY0sIn569djOPd-TANBLPXjdGihHd6Z0G8CxCJ5kHjOHJ2Tf1BBQv_ooH8hC8nO0oBkP3-w=s160-c-k-c0x00ffffff-no-rj",
+    "img": "https://avatars.githubusercontent.com/u/27079662?v=4",
     "title_eng": "nasin.nimi.li",
     "title_tok": "nasin.nimi.li",
     "desc_eng": "A sentence parser for Toki Pona. Verify your understanding of syntax",
@@ -213,8 +220,8 @@
     "img": "https://tokipona.org/apple-touch-icon.png",
     "title_eng": "tokipona.org",
     "title_tok": "tokipona.org",
-    "desc_eng": "Printed books by jan Sonja, inter-conlang collaboration, FAQ",
-    "desc_tok": "Printed books by jan Sonja, inter-conlang collaboration, FAQ"
+    "desc_eng": "The personal website of the creator of the language",
+    "desc_tok": "The personal website of the creator of the language"
   },
   "https://sona.pona.la": {
     "img": "https://static.wikitide.net/sonaponawiki/e/ec/sona_pona_%28provisional%29.png",
