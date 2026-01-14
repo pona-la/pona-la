@@ -21,6 +21,9 @@ let [url_, img, title, desc] = site
     : ((post) => [`/${url}`, "", post.data.title, post.data.description])(
         (await getCollection("content")).find((post) => post.id == url)!,
       );
+const linkAttrs = url_.startsWith('https://tokipona.org') 
+  ? { rel: 'nofollow' } 
+  : {};
 ---
 
 <style>
@@ -58,7 +61,7 @@ let [url_, img, title, desc] = site
   }
 </style>
 
-<a class="card" href={`${url_}`}>
+<a class="card" href={`${url_}`} {...linkAttrs}>
   <div class="sp">{img && <img src={img} />}</div>
   <div><span class="title">{title}</span><br />{desc}</div>
 </a>
