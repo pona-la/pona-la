@@ -46,14 +46,14 @@
     "title_eng": "nimi.li",
     "title_tok": "nimi.li",
     "desc_eng": "Dictionary. Use 'core'+'common' settings",
-    "desc_tok": "lipu nimi. o lukin e poki Core Common'"
+    "desc_tok": "lipu nimi. o lukin e poki Core Common"
   },
   "https://linku.la": {
     "img": "https://linku.la/favicon.png",
     "title_eng": "linku.la",
     "title_tok": "linku.la",
     "desc_eng": "Dictionary. Use 'core'+'common' settings",
-    "desc_tok": "lipu nimi. o lukin e poki Core Common'"
+    "desc_tok": "lipu nimi. o lukin e poki Core Common"
   },
   "https://kemeka.pona.la": {
     "img": "https://kemeka.pona.la/favicon.svg",
@@ -284,7 +284,7 @@
     "title_eng": "sin kulupu",
     "title_tok": "sin kulupu",
     "desc_eng": "a Toki Pona newsletter, every two weeks",
-    "desc_tok": "lipu tu pi mun wan li pana e ijo sin pi kulupu pi toki pona"
+    "desc_tok": "mun wan la lipu tu li pana e ijo sin pi kulupu pi toki pona"
   },
   "https://sitelen.pona.la": {
     "img": "https://sitelen.pona.la/favicon.png",
