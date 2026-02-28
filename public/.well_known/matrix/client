@@ -1,0 +1,11 @@
+{
+  "m.server": {
+    "base_url": "https://txx.fi:20808"
+  },
+  "m.homeserver": {
+    "base_url": "https://txx.fi:20808"
+  },
+  "org.matrix.msc3575.proxy": {
+    "url": "https://txx.fi:20808"
+  }
+}
