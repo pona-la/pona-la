@@ -1,11 +1,11 @@
 {
   "m.server": {
-    "base_url": "https://matrix.nikolas.dy.fi"
+    "base_url": "matrix.nikolas.dy.fi:443"
   },
   "m.homeserver": {
-    "base_url": "https://matrix.nikolas.dy.fi"
+    "base_url": "matrix.nikolas.dy.fi:443"
   },
   "org.matrix.msc3575.proxy": {
-    "url": "https://matrix.nikolas.dy.fi"
+    "url": "matrix.nikolas.dy.fi:443"
   }
 }
