@@ -1,0 +1,9 @@
+{
+  "contacts": [
+    {
+      "email_address": "nikolas@testausserveri.fi",
+      "matrix_id": "@jan-nikolasu:pona.la",
+      "role": "m.role.admin"
+    }
+  ]
+}
