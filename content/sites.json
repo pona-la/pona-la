@@ -223,6 +223,13 @@
     "desc_eng": "The personal website of the creator of the language",
     "desc_tok": "lipu pi mama pi toki pona"
   },
+  "https://tokipona.net": {
+    "img": "https://tokipona.net/logo.png",
+    "title_eng": "tokipona.net",
+    "title_tok": "tokipona.net",
+    "desc_eng": "A community-run homepage for Toki Pona",
+    "desc_tok": "lipu pi toki pona. kulupu pi toki pona li pali"
+  },
   "https://sona.pona.la": {
     "img": "https://static.wikitide.net/sonaponawiki/e/ec/sona_pona_%28provisional%29.png",
     "title_eng": "sona.pona.la",
